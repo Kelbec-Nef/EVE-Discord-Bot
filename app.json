@@ -1,0 +1,15 @@
+{
+  "name": "Nef Discord Bot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
